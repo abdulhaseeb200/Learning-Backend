@@ -1,2 +1,4 @@
-# Learning-Backend
-A beginner's journey into backend development using Node.js, Express, and MongoDB.
+- Installed MongoDB and set up a local database.
+- Created collections to store data for future use.
+- Wrote basic MongoDB commands to interact with the database.
+- Gained hands-on experience with MongoDB's structure and basic operations.
